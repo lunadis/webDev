@@ -11,4 +11,7 @@ console.log(0.1+0.7)
 // saida: 0.799999999999999
 // console.log((10.3536).toString)  não funciona
 console.log((10.3565).toFixed(2))
-
+/* o sinal de + tem caracteristicas
+ de concatenador quando usado com 
+ uma string. */
+console.log('3' + 2)
